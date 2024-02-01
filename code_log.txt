@@ -1,0 +1,8 @@
+2024-Jan-31-21:31:12 : Initiating ETL process
+2024-Jan-31-21:31:12 : Data transformation complete. Initiating Loading process
+2024-Jan-31-21:31:12 : SQL Connection initiated
+2024-Jan-31-21:31:12 : Database connection closed
+2024-Jan-31-21:31:12 : Executed query: SELECT * FROM Largest_banks
+2024-Jan-31-21:31:12 : Executed query: SELECT AVG(MC_GBP_Billion) AS Avg_Market_Cap_GBP FROM Largest_banks
+2024-Jan-31-21:31:12 : Executed query: SELECT Name FROM Largest_banks LIMIT 5
+2024-Jan-31-21:31:12 : Database connection closed
