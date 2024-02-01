@@ -40,7 +40,7 @@ The BankMarketCapETL project is designed to create a robust ETL (Extract, Transf
 
 ![Query Execution](https://github.com/adiimated/BankMarketCapETL/blob/main/Task_6_SQL.png)
 
-*Fig.1: Execution of SQL queries
+* Fig.1: Execution of SQL queries
 
 ## Conclusion
 
