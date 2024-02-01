@@ -40,8 +40,6 @@ The BankMarketCapETL project is designed to create a robust ETL (Extract, Transf
 
 ![Query Execution](https://github.com/adiimated/BankMarketCapETL/blob/main/Task_6_SQL.png)
 
-* Fig.1: Execution of SQL queries
-
 ## Conclusion
 
 The BankMarketCapETL project streamlines the process of gathering, converting, and storing critical financial data regarding the world's largest banks. By automating the extraction of up-to-date market capitalization data and accommodating currency conversions, this pipeline serves as a valuable tool for financial analysis and reporting.
